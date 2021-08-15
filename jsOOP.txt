@@ -1,0 +1,21 @@
+Source: https://www.youtube.com/watch?v=vDJpGenyHaA
+
+Well I just paused as I realized I can do the explanation on the comment instead.
+
+BASIC LITERALS
+declaring the primitive as new makes it object
+ex: const s = new String("Hello");
+That's an object already
+CONSTRUCTOR
+the function will on be a constructor if you add 'new' before you declare it
+book1 = book(property1,property2) //this is only a function
+book2 = new book(property1, property2) //this is now a constructor
+
+
+
+
+
+
+
+
+
